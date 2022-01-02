@@ -16,6 +16,8 @@
     Office packages, Html, CSS</li>
   </ul>
 </p>
+<br></br>
+
 <header>
   <img src="/logo.png" alt="Логотип"> <!-- Логотип сайта -->
   <nav>
@@ -58,3 +60,8 @@
 
   </section>
 </main>
+<br></br>
+
+<p>Creating CV and code by CSS and HTML</p>
+<p>RS School</p>
+<p>Fluent in Russian, Belarusian, strong in English and Polish (both spoken and written)</p>
