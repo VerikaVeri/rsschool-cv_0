@@ -16,3 +16,45 @@
     Office packages, Html, CSS</li>
   </ul>
 </p>
+<header>
+  <img src="/logo.png" alt="Логотип"> <!-- Логотип сайта -->
+  <nav>
+    <!-- Меню -->
+    <ul>
+      <li><a href="/">Главная</a></li>
+      <li><a href="/about">О нас</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+
+  <aside>
+    <!-- Боковая панель (сайдбар) -->
+    <nav>
+      <!-- Дополнительное меню раздела -->
+      <ul>
+        <li><a href="/service-1/">Услуга 1</a></li>
+        <li><a href="/service-2/">Услуга 2</a></li>
+        <li><a href="/service-3/">Услуга 3</a></li>
+      </ul>
+    </nav>
+  </aside>
+
+  <p>Основной контент страницы. Это может быть статья, описание услуги, данные на странице контакты</p>
+
+  <section class="more">
+    <h2>Читайте также</h2>
+    <article class="article-block">
+      <h3>Услуга 2</h3>
+      <p>Описание новой услуги</p>
+      <a href="#">Ссылка на услугу</a>
+    </article>
+    <article class="article-block">
+      <h3>Услуга 3</h3>
+      <p>Описание новой услуги</p>
+      <a href="#">Ссылка на услугу</a>
+    </article>
+
+  </section>
+</main>
